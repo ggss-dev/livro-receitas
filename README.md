@@ -5,5 +5,7 @@ Aplicação de Livro de Receitas feita durante o Bootcamp da Spreead em parceria
 - VsCode
 - Markdown
 
-
+## Como utilizar 📖
+- Clone o repositório ou baixe o projeto
+- Dentro da pasta do projeto, abra o arquivo receitas.md
 
