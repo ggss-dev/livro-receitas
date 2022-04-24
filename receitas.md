@@ -1,5 +1,5 @@
 # Meu livro de Receitas 🧑‍🍳
-- <a href="strogonoff.md">Strogonoff de Frango</a> :chicken:
+- [Strogonoff de Frango](strogoff.md):chicken:
 - Panqueca de Carne
 - Lazanha 
 
